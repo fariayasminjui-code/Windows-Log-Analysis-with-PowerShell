@@ -81,7 +81,7 @@ These screenshots document the practical steps and results of the exercises.
 **Repository Structure**
 
 Windows-Log-Analysis-with-PowerShell/
-│
+|
 ├── README.md
 │
 ├── Screenshots/
